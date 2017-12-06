@@ -5,10 +5,10 @@ class Person
   def name=(new_name)
     @name = new_name
   end
-  def breed
+  def job
     @breed
   end
-  def breed=(new_breed)
+  def job=(new_job)
     @breed = new_breed
   end
 end
